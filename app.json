@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PhotoApp2",
+    "slug": "PhotoApp2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PhotoApp2"
+}
